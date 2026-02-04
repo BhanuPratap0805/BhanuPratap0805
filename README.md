@@ -1,3 +1,11 @@
+!-- README.md -->
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+  <!-- Change the src below to your own avatar -->
+  <img src="https://github.com/BhanuPratap0805.png" width="120" height="120" style="border-radius:50%"/>
+
 # 💫 Hi 👋, I'm Bhanu Pratap Gemini
 
 ## 🌐 Socials:
