@@ -1,13 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Bhanu&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=ML%20Engineer%20in%20Progress%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20RAG%20Systems&descAlignY=65&descColor=ffffff&descSize=18" />
 
   <!-- Change the src below to your own avatar -->
-  <img src="https://github.com/BhanuPratap0805.png" width="120" height="120" style="border-radius:50%"/>
+  <img src="https://github.com/BhanuPratap0805.png" width="120" height="120" style="border-radius:50%"/> <br>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=240&section=header&text=Bhanu&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=ML%20Engineer%20in%20Progress%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20RAG%20Systems&descAlignY=65&descColor=ffffff&descSize=18" />
-  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Hey+there!+I'm+Bhanu+Pratap+%F0%9F%91%8B;ML+Engineer+in+Progress+%F0%9F%A4%96;Building+RAG+Systems+%26+LLM+Pipelines;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://github.com/BhanuPratap0805)
  
 </div>
@@ -101,5 +99,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:006fff,100:6600ff&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Happy%20Coding%20%F0%9F%9A%80%20%7C%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work!&descSize=16&descAlignY=78&descColor=e0f7ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Happy%20Coding%20%F0%9F%9A%80%20%7C%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work!&descSize=16&descAlignY=78&descColor=e0f7ff"/>
 </div>
