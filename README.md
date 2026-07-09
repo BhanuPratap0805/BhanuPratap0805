@@ -1,12 +1,12 @@
 <div align="center">
 
   <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Bhanu&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=ML%20Engineer%20in%20Progress%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20RAG%20Systems&descAlignY=65&descColor=ffffff&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Bhanu&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=ML%20Engineer%20in%20Progress%20%7C%20GenAI%20%7C%20Building%20RAG%20Systems&descAlignY=65&descColor=ffffff&descSize=18" />
 
   <!-- Change the src below to your own avatar -->
   <img src="https://github.com/BhanuPratap0805.png" width="120" height="120" style="border-radius:50%"/> <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Hey+there!+I'm+Bhanu+Pratap+%F0%9F%91%8B;ML+Engineer+in+Progress+%F0%9F%A4%96;Building+RAG+Systems+%26+LLM+Pipelines;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://github.com/BhanuPratap0805)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Hey+there!+I'm+Bhanu+Pratap+%F0%9F%91%8B;ML+Engineer+in+Progress+%F0%9F%A4%96;Building+RAG+Systems+%26+LLM+Pipelines;Generative+AI+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://github.com/BhanuPratap0805)
  
 </div>
 
